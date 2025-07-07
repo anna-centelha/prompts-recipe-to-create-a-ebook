@@ -48,9 +48,7 @@ Copilot：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | Crie uma imagem para a capa de um eBook chamado “Hello, World Tour”, que ensina lógica de programação de maneira divertida, usando referências do universo pop musical.
-A capa deve seguir o estilo visual de um pôster de turnê mundial — com elementos típicos desse universo, como luzes de palco, setlists, microfones, passagens de avião, fãs, e um palco épico — mas com um toque geek: trechos de código, símbolos como {}, if, print("Hello, World"), pixels ou bits devem se misturar a essa estética pop/glam. 
-A ideia é que a lógica de programação seja retratada como se fosse um grande espetáculo pop, com cores vibrantes (neon, rosa, roxo, azul), fontes modernas e muita energia visual. Pense em algo que Britney, Beyoncé ou Lady Gaga usariam se fossem headliners de uma tour sobre código! |
+| título | Crie uma imagem para a capa de um eBook chamado “Hello, World Tour”, que ensina lógica de programação de maneira divertida, usando referências do universo pop musical. A capa deve seguir o estilo visual de um pôster de turnê mundial — com elementos típicos desse universo, como luzes de palco, setlists, microfones, passagens de avião, fãs, e um palco épico — mas com um toque geek: trechos de código, símbolos como {}, if, print("Hello, World"), pixels ou bits devem se misturar a essa estética pop/glam. A ideia é que a lógica de programação seja retratada como se fosse um grande espetáculo pop, com cores vibrantes (neon, rosa, roxo, azul), fontes modernas e muita energia visual. Pense em algo que Britney, Beyoncé ou Lady Gaga usariam se fossem headliners de uma tour sobre código! |
 
 ## ✨ Features
 
